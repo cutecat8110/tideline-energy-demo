@@ -2,7 +2,7 @@
 
 `React 19` · `TypeScript` · `Recharts` · `Base UI` · `Vite`
 
-同圖比較四港能源趨勢，以左右刻度呈現不同量級，支援前期比較與報表匯出。
+四港能源趨勢與雙刻度比較，支援前期分析及報表匯出。
 
 **[開啟 Demo](https://cutecat8110.github.io/tideline-energy-demo/)**
 
