@@ -1,4 +1,4 @@
-# 汐衡能源｜能源分析儀表板
+# 能源儀表板
 
 `React 19` · `TypeScript` · `Recharts` · `Base UI` · `Vite`
 
