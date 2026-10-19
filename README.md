@@ -8,7 +8,7 @@
 
 > 四港能源趨勢與雙刻度比較，支援前期分析及報表匯出。
 
-![四港比較與雙刻度圖表](images/overview.png?v=165b11175c)
+![四港比較與雙刻度圖表](images/overview.165b11175c.png)
 
 ## 📋 專案概述
 
@@ -44,8 +44,8 @@
 <details>
 <summary>港區趨勢與分析報表</summary>
 
-![港區當期與前期比較](images/port.png?v=9b2c6f9de3)
-![報表長條與前期曲線](images/reports.png?v=0cf4228e58)
+![港區當期與前期比較](images/port.9b2c6f9de3.png)
+![報表長條與前期曲線](images/reports.0cf4228e58.png)
 
 </details>
 
